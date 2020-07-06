@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-complete-guide-af3d9": {
+      "hosting": {
+        "github-login-firebase": [
+          "ng-complete-guide-af3d9"
+        ]
+      }
+    }
+  }
+}
